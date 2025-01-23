@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+header div{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+header div h1{
+    color: black;
+    padding: 6px;
+}
